@@ -4,9 +4,9 @@
 by using the best modern technical methods.
 
 ## Used Software
-> Frontend: Bootstarp Framework, HTML5, CSS, JavaScript, jQuery, and Ajax <br />
+> Frontend: Bootstarp Framework, HTML5, CSS, JavaScript, jQuery, and Ajax. <br />
 Backend: Laravel Framework, PHP, JSON, XAMPP (web server app), Composer, and phpMyAdmin, Zoom API.<br />
-Editor: Visual Studio Code
+Editor: Visual Studio Code<br />
 Hosting: 000webhostapp
 
 ## Demo

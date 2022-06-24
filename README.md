@@ -1,5 +1,9 @@
-# Graduation-Project
+# Graduation Project
+> Educational website for learning the Holy Quran. Made this project 
+from scratch, including designing, and implementing it by using 
+Laravel Framework, deploying, maintaining, and marketing.
 
+# UQ Maqraah
 > Umm Al-Qura electronic Maqraah aims to connect all members of society to the recitation of the Holy Quran by improving its recitation and adjusting its performance
 by using the best modern technical methods.
 

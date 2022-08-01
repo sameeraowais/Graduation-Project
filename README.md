@@ -15,7 +15,7 @@ Hosting: 000webhostapp
 
 ## Demo
 
-### Live Demo
+### Link of Maqraah Website
 http://maqraah.000webhostapp.com/
 
 ### Recorded Demo

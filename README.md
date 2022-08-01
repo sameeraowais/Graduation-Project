@@ -18,5 +18,5 @@ Hosting: 000webhostapp
 ### Link of Maqraah Website
 http://maqraah.000webhostapp.com/
 
-### Recorded Demo
+### Demo
 https://a.top4top.io/m_2365va8na1.mp4
